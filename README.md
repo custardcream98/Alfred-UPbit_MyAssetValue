@@ -12,7 +12,7 @@ This Workflow is for Korean UPbit users.
 * 'Import Value (editable)'의 UPBIT_API_ACCESS_KEY 와 UPBIT_API_SECRET_KEY 에 앞서 발급받은 API를 채워넣습니다.
 
 <br/><br/>
-## 주의! API키 발급시 '자산조회'이외의 항목 (예 : 출금하기) 등에 체크 시 보안상 위험할 수 있습니다.
+## 주의! API키 발급시 '자산조회'이외의 항목 (예 : 출금하기) 등에 체크 하면 보안상 위험할 수 있습니다.
 ## API 키 관리에 익숙하지 않다면 자산조회만 가능한 API키를 발급받으시길 권장드립니다.
 ### 또한, 가능하다면 '특정 IP에서만 실행'을 체크 후 본인의 IP주소에서만 접속 가능하도록 하는 것이 좋습니다. 
 <br/><br/>
@@ -37,6 +37,7 @@ This Workflow is for Korean UPbit users.
 * Enter를 누르면 업비트 홈페이지로 이동합니다.
 <br/><br/>
 
+--------------
 ## Credits
 * [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) by denishe
 * [PyJWT](https://github.com/jpadilla/pyjwt) by jpadilla

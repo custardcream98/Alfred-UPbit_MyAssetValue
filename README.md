@@ -39,6 +39,10 @@ This Workflow is for Korean UPbit users.
 <br/><br/>
 
 --------------
+## 혹시 '업비트에서 티커로 코인 현재가를 찾는 워크플로우'를 원하신다면
+[Alfred-UPbit_Tracker](https://github.com/custardcream98/Alfred-UPbit_Tracker)
+<br/><br/>
+
 ## Credits
 * [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) by denishe
 * [PyJWT](https://github.com/jpadilla/pyjwt) by jpadilla

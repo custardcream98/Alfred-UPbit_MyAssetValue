@@ -23,7 +23,7 @@ This Workflow is for Korean UPbit users.
 ### 내 전체 자산 조회하기
 ![image](https://user-images.githubusercontent.com/87423085/131264345-09e5e619-9f56-4426-9a82-54a0b164aa56.png)
 * `upmy` : 내 전체 자산 평가가치를 보여줍니다.
-* 특정 티커로 이동해 Enter를 누르면 업비트 가격 페이지로 이동합니다.
+* 특정 가상화폐로 이동해 Enter를 누르면 업비트 가격 페이지로 이동합니다.
 * 전체 자산 평가가치 부분에서 Enter를 누르면 업비트 홈페이지로 이동합니다.
 <br/><br/>
 ### 내 특정 자산 조회하기

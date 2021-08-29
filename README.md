@@ -9,8 +9,13 @@ This Workflow is for Korean UPbit users.
 * [Releases](https://github.com/custardcream98/Alfred-UPbit_MyAssetValue/releases)에서도 다운받을 수 있습니다.
 * 다운로드한 파일을 더블클릭합니다.
 <img src ="https://user-images.githubusercontent.com/87423085/131264038-c7fc3359-3610-4700-a064-cde82aa72805.png">
-* 'Import Value (editable)'의 UPBIT_API_ACCESS_KEY 와 UPBIT_API_SECRET_KEY 에 앞서 발급받은 API를 채워넣습니다.<br/><br/>
+* 'Import Value (editable)'의 UPBIT_API_ACCESS_KEY 와 UPBIT_API_SECRET_KEY 에 앞서 발급받은 API를 채워넣습니다.
 
+<br/><br/>
+## 주의! API키 발급시 '자산조회'이외의 항목 (예 : 출금하기) 등에 체크 시 보안상 위험할 수 있습니다.
+## API 키 관리에 익숙하지 않다면 자산조회만 가능한 API키를 발급받으시길 권장드립니다.
+### 또한, 가능하다면 '특정 IP에서만 실행'을 체크 후 본인의 IP주소에서만 접속 가능하도록 하는 것이 좋습니다. 
+<br/><br/>
 
 
 ## 사용법

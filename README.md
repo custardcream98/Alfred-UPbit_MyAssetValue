@@ -30,6 +30,7 @@ This Workflow is for Korean UPbit users.
 ![image](https://user-images.githubusercontent.com/87423085/131264383-013792f2-2137-4da1-84e5-e287c427f39f.png)
 * `upmy {Ticker}` : 티커를 입력하면 해당 자산의 평가가치를 보여줍니다.
 * Enter를 누르면 업비트 가격 페이지로 이동합니다.
+* 티커 자동완성 기능은 없습니다. 티커를 끝까지 입력해주세요.
 <br/><br/>
 ### 내 전체 자산 평가 가치만 조회하기
 ![image](https://user-images.githubusercontent.com/87423085/131264412-84983bef-113c-4560-bda1-ee0e5e6f6939.png)

@@ -33,5 +33,9 @@ This Workflow is for Korean UPbit users.
 
 ## Credits
 * [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) by denishe
+* [PyJWT](https://github.com/jpadilla/pyjwt) by jpadilla
+* [requests](https://github.com/psf/requests) by psf
+* [urllib3](https://github.com/urllib3/urllib3) by urllib3
+* [python-certifi](https://github.com/certifi/python-certifi) by certifi
 * [UPbit](https://upbit.com/home)
 

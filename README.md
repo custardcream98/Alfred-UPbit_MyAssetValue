@@ -21,19 +21,19 @@ This Workflow is for Korean UPbit users.
 
 ## 사용법
 ### 내 전체 자산 조회하기
-![image](https://user-images.githubusercontent.com/87423085/131264345-09e5e619-9f56-4426-9a82-54a0b164aa56.png)
+![image](https://user-images.githubusercontent.com/87423085/131692050-03dfd852-3cc7-4544-b596-ba2c0b2fa8ce.png)
 * `upmy` : 내 전체 자산 평가가치를 보여줍니다.
 * 특정 가상화폐로 이동해 Enter를 누르면 업비트 가격 페이지로 이동합니다.
 * 전체 자산 평가가치 부분에서 Enter를 누르면 업비트 홈페이지로 이동합니다.
 <br/><br/>
 ### 내 특정 자산 조회하기
-![image](https://user-images.githubusercontent.com/87423085/131264383-013792f2-2137-4da1-84e5-e287c427f39f.png)
+![image](https://user-images.githubusercontent.com/87423085/131692088-74648d29-4191-4fd9-a314-b80c2ece9953.png)
 * `upmy {Ticker}` : 티커를 입력하면 해당 자산의 평가가치를 보여줍니다.
 * Enter를 누르면 업비트 가격 페이지로 이동합니다.
 * 티커 자동완성 기능은 없습니다. 티커를 끝까지 입력해주세요.
 <br/><br/>
 ### 내 전체 자산 평가 가치만 조회하기
-![image](https://user-images.githubusercontent.com/87423085/131264412-84983bef-113c-4560-bda1-ee0e5e6f6939.png)
+![image](https://user-images.githubusercontent.com/87423085/131692139-6f5c09f8-6b5a-4519-96c0-3b6feba81881.png)
 * `upmy tot` : 티커로 'tot'을 입력하면 전체 자산 평가가치만 보여줍니다.
 * Enter를 누르면 업비트 홈페이지로 이동합니다.
 <br/><br/>
